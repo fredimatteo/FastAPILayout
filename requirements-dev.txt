@@ -1,0 +1,1 @@
+# Install mandatory FastAPI's requirements by running -> pip install "fastapi[all]"
