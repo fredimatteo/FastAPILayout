@@ -1,0 +1,1 @@
+# Add inside this module any database initialization code if needed.
